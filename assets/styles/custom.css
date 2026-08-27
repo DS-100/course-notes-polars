@@ -1,0 +1,4 @@
+/* Site logo: the book theme renders it at `h-9` (2.25rem). Bump it up a bit. */
+.myst-home-link-logo img {
+  height: 3.25rem;
+}

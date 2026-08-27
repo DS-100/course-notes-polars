@@ -6,6 +6,7 @@ project:
   description: Principles and Techniques of Data Science course notes.
   authors:
     - name: Data 100 Staff
+    - name: Edwin Vargas # Polars conversion
   license: BSD-3-Clause
   github: DS-100/course-notes-polars
   numbering:
@@ -39,7 +40,8 @@ project:
 site:
   template: book-theme
   options:
-    favicon: assets/images/data100_logo.png
-    logo: assets/images/data100_logo.png
+    favicon: assets/images/d100-polars.png
+    logo: assets/images/d100-polars.png
     logo_text: "Data 100 Course Notes"
+    style: assets/styles/custom.css
     hide_authors: true
